@@ -1,0 +1,4 @@
+In the json, the model {'query': {'q': string, 'a': string}} is the QA of the model with no new data loaded.
+
+In this run:
+* The 2024_United_States_presidential_debates.pdf and fact_check_blurb.txt files were not loaded.

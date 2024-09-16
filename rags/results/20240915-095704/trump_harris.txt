@@ -1,0 +1,4 @@
+In the json, the model {'query': {'q': string, 'a': string}} is the QA of the model with no new data loaded.
+
+In this run:
+* Same result after loading the fact_check_blurb.txt for the lying question.

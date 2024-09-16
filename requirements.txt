@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-ollama
+langsmith
+
+# For reading files
+pypdf
+
+python-dotenv
+
+# chroma-hnswlib
+chromadb
+
+PyPDF2
